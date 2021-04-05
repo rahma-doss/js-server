@@ -128,5 +128,29 @@
             }
             
         ]
+    },
+    "themeOneWorkSection": {
+        "heading": "Comment fonctionne Perdrix",
+        "headingText": "Nous avons pour objectifs de développer une application mobile pour les jeunes aux études.Le but est d'offrir la possibilité de concilier facilemnt le travail et études.",
+        "workData": [
+            {
+                "id": 1,
+                "image": "/img/work_thumb_1.png",
+                "title": "Installer l'application",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+            },
+            {
+                "id": 2,
+                "image": "/img/work_thumb_2.png",
+                "title": "Configurez votre profil",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+            },
+            {
+                "id": 3,
+                "image": "/img/work_thumb_3.png",
+                "title": "Profitez des fonctionnalités",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+            }
+        ]
     }
     }
