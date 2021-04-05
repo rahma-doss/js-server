@@ -1,0 +1,91 @@
+{
+    "themeOneFeatureSection": {
+        "preHeading": "Premium",
+        "preHeadingspan": "Features",
+        "heading": "What Makes sApp Different?",
+        "headingTwo": "Nos domaines d'activités",
+        "headingThree": "Why Small Business Owner's Loves sApp",
+        "headingFour": "Why choose sApp?",
+        "headingText": "On te propose des missions payantes à chaque jour!",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "featureThumb": "/img/features_thumb.png",
+        "featureData": [
+            {
+              "id": 1,
+              "image": "/img/featured_image_1.png",
+              "title": "Événementiel",
+              "text": "Lorem "
+            },
+            {
+              "id": 2,
+              "image": "/img/featured_image_2.png",
+              "title": "Live Chat",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            },
+            {
+              "id": 3,
+              "image": "/img/featured_image_3.png",
+              "title": "Secure Data",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+            }
+        ],
+        "featureData_1": [
+            {
+                "id": 1,
+                "image": "/img/featured_image_4.png",
+                "title": "Easy to Customize",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+              },
+              {
+                "id": 2,
+                "image": "/img/featured_image_5.png",
+                "title": "Responsive Design",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+              },
+              {
+                "id": 3,
+                "image": "/img/featured_image_6.png",
+                "title": "Help Documentation",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+              }
+        ],
+        "featureDataTwo": [
+            {
+                "id": 1,
+                "iconClass": "flaticon-tap",
+                "title": "Événementiel",
+                "text": "Hôte, serveur, Barman"
+            },
+            {
+                "id": 2,
+                "iconClass": "flaticon-restaurant",
+                "title": "restauration",
+                "text": "Plongeur, Caissier, Aide-cuisinier, Service"
+            },
+            {
+                "id": 3,
+                "iconClass": "flaticon-notification",
+                "title": "Animation Commerciale",
+                "text": "Animateur, Dégustation des produits, Marketing local"
+            },
+            {
+                "id": 4,
+                "iconClass": "flaticon-language",
+                "title": "Logistique",
+                "text": "Gestionnaire des commandes, Emballage, Opérateur"
+            },
+            {
+                "id": 5,
+                "iconClass": "flaticon-language",
+                "title": "Administration",
+                "text": "Réception, Sécrétariat, Travail de bureau"
+            },
+            {
+                "id": 6,
+                "iconClass": "flaticon-language",
+                "title": "Magasins",
+                "text": "Caissier, Vendeur, Acceuil, Marchandisage"
+            }
+        ]
+    },
+    }
