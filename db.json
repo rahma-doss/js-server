@@ -87,5 +87,46 @@
                 "text": "Caissier, Vendeur, Acceuil, Marchandisage"
             }
         ]
-    }
+    },
+    "themeOneDiscoverSection": {
+        "heading": "Easily communicate with clients using sApp.",
+        "headingTwo": "Avantages",
+        "headingThree": "More productivity with less effort",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+        "thumbOne": "/img/discover_thumb.png",
+        "thumbTwo": "/img/discover_thumb_3.png",
+        "discoverData": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-check",
+                "text": "Tu peux choisir où et quand tu sauhaites travailler."
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-check",
+                "text": "Libre à toi d'accepter ou de refuser les missions en fonction de ton agenda."
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-check",
+                "text": "tu es payé spontanément à la fin de ta mission ! Bien plus que le salaire minimun."
+            },
+            {
+                "id": 4,
+                "iconClass": "fas fa-check",
+                "text": "Echange avec votre employeur en direct via l'ammilcatin."
+            }
+        ],
+        "discoverIcon": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-bell"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-envelope-open"
+            }
+            
+        ]
+    },
     }
