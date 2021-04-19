@@ -131,7 +131,7 @@
     },
     "themeOneWorkSection": {
         "heading": "Comment fonctionne Perdrix",
-        "headingText": "Nous avons pour objectifs de développer une application mobile pour les jeunes aux études.Le but est d'offrir la possibilité de concilier facilemnt le travail et études.",
+        "headingText": "Nous avons pour objectifs de développer une application mobile pour les jeunes aux études but d'offrir la possibilité de concilier facilement le travail et études.",
         "workData": [
             {
                 "id": 1,
