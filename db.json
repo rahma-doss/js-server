@@ -58,31 +58,31 @@
             },
             {
                 "id": 2,
-                "iconClass": "flaticon-tap",
+                "iconClass": "https://static.wixstatic.com/media/31149a_4530d48aa0ac4e51a3da6dce094ece03~mv2.jpg/v1/crop/x_0,y_15,w_4000,h_5970/fill/w_130,h_195,al_c,q_80,usm_0.66_1.00_0.01/31149a_4530d48aa0ac4e51a3da6dce094ece03~mv2.webp",
                 "title": "restauration",
                 "text": "Plongeur, Caissier, Aide-cuisinier, Serveurs"
             },
             {
                 "id": 3,
-                "iconClass": "flaticon-notification",
+                "iconClass": "https://static.wixstatic.com/media/31149a_8734fbf8930f4d81965a054872f20b53~mv2.jpg/v1/crop/x_1292,y_0,w_2600,h_3888/fill/w_133,h_195,al_c,q_80,usm_0.66_1.00_0.01/31149a_8734fbf8930f4d81965a054872f20b53~mv2.webp",
                 "title": "Animation Commerciale",
                 "text": "Animateur, Dégustation des produits, Marketing local"
             },
             {
                 "id": 4,
-                "iconClass": "flaticon-language",
+                "iconClass": "https://static.wixstatic.com/media/31149a_dd8370fed57b4ecbbbec1a2b533c248a~mv2.jpg/v1/crop/x_1005,y_0,w_2022,h_3024/fill/w_134,h_195,al_c,q_80,usm_0.66_1.00_0.01/31149a_dd8370fed57b4ecbbbec1a2b533c248a~mv2.webp",
                 "title": "Logistique",
                 "text": "Gestionnaire des commandes, Emballage, Opérateur"
             },
             {
                 "id": 5,
-                "iconClass": "flaticon-language",
+                "iconClass": "https://static.wixstatic.com/media/31149a_a3478d7361b44e02a35c9d552602a82b~mv2.jpg/v1/crop/x_864,y_0,w_1734,h_2400/fill/w_136,h_195,al_c,q_80,usm_0.66_1.00_0.01/31149a_a3478d7361b44e02a35c9d552602a82b~mv2.webp",
                 "title": "Administration",
                 "text": "Réception, Sécrétariat, Travail de bureau"
             },
             {
                 "id": 6,
-                "iconClass": "flaticon-language",
+                "iconClass": "https://static.wixstatic.com/media/31149a_586296686e6140579238b0c0970fd109~mv2.jpg/v1/crop/x_499,y_0,w_2803,h_4188/fill/w_129,h_195,al_c,q_80,usm_0.66_1.00_0.01/31149a_586296686e6140579238b0c0970fd109~mv2.webp",
                 "title": "Magasins",
                 "text": "Caissier, Vendeur, Acceuil, Marchandisage"
             }
